@@ -1,2 +1,3 @@
 I am working on Mering concept
-I am working in merge confit
+I am working to reslove the merge conflit
+
